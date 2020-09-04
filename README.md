@@ -1,2 +1,4 @@
 # Projeto_Rodes
-Algoritmo
+
+Sistema de visão computacional para detecção automática de mastite bovina através de imagens térmicas
+
